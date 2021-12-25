@@ -11,7 +11,5 @@ fourth,using matplotlib module imported pyplot at starting of this program and c
 1.piechart:dividing patients' data by their respective diseases.
 2.bargraph:dividing patients' data by their respective age.
 Atlast,created a menu for these records.
-.
-.
-.
+
 Hope you guys will understand my progam.
